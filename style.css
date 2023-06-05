@@ -1,3 +1,27 @@
+.section-one {
+  /* background-color: #1F2937; */
+  background-color: lightsalmon;
+}
+
+.header {
+  display: flex;;
+}
+
+.hero-content {
+  display: flex;;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0 0 0 auto;
+}
+
+img {
+  height: 275px;
+  width: 600px;
+}
+
 button.sign-up {
     background: royalblue;
     border: 1px solid royalblue;
