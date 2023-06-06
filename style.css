@@ -144,13 +144,24 @@ button{
     width: 1000px;
     border-radius: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
   }
 
   .call-to-action-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
+  }
+
+  .call-to-action-main-text {
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+  }
+
+  .call-to-action-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
   }
 
   .section-four-sign-up-button {
