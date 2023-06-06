@@ -106,3 +106,10 @@ button.sign-up {
     color: gray;
     text-align: center;
   }
+
+  .section-three {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+  }
