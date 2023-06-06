@@ -5,15 +5,15 @@ body {
 
 .section-one {
   background-color: #1F2937;
-  padding: 0 250px;
-  height: 650px;
+  padding: 0 450px;
+  height: 550px;
   display: flex;
   flex-direction: column;
 }
 
 .header {
   display: flex;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 .header-logo {
