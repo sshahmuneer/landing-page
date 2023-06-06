@@ -79,7 +79,7 @@ button{
   .section-two {
     display: flex;
     flex-direction: column;
-    height: 400px;
+    height: 500px;
     justify-content: space-evenly;
     align-items: center;
   }
