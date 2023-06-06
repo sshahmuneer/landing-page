@@ -168,3 +168,13 @@ button{
     border: 2px solid white;
     align-self: center;
   }
+
+  footer {
+    background-color: #1F2937;
+    color: white;
+    font-size: 18px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
